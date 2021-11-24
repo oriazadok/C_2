@@ -7,7 +7,7 @@ int main() {
     char in;
     do {
         
-        scanf("%c", &in);
+        scanf(" %c", &in);
         
         switch(in) {
             case 'A':
